@@ -25,7 +25,7 @@ SpringBoot-LDAP-Authentication$ docker build -t spring-boot-ldap .
 Run image in container
 ```bash
 
-SpringBoot-LDAP-Authentication$ docker run -p 8080:8080 -t spring-boot-ldap:dev
+SpringBoot-LDAP-Authentication$ docker run -p 8080:8080 -t spring-boot-ldap
 ```
 
 Docker image URL at https://hub.docker.com

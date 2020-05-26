@@ -5,7 +5,9 @@ Authenticating a User with LDAP in Spring Boot
 To run locally:
 build and run spring boot application:
 ```bash
-SpringBoot-LDAP-Authentication$ ./gradlew bootRun
+SpringBoot-LDAP-Authentication$ gradle build
+
+SpringBoot-LDAP-Authentication$ java -jar build/libs/authenticating-ldap-0.0.1-SNAPSHOT.jar
 ```
 
 
